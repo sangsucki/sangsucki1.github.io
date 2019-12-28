@@ -44,9 +44,7 @@ a{
     color: #db4646;
     cursor: pointer;
 }
-a:hover{
-    color: #b21c1c;
-}
+
 a:active{
     color: #910b0b;
 }
