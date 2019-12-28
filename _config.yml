@@ -10,8 +10,9 @@ title: "Joseph Dreamer's project"
 description: "The Power of Network and Communication"
 baseurl: ""
 url: "http://sangsucki.github.io" # replace by your site's url
-twitter_username: your-name
+facebook_username: sangsucki
 github_username: sangsucki # (your name)
+linkedin_username : josephleess
 accent: "#f7f7e6" # accent color for blog column
 
 author: "Joseph"
