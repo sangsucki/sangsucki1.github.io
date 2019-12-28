@@ -1,23 +1,23 @@
 @font-face {
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display','Nanum Gothic';
   font-style: normal;
   font-weight: 400;
   src: url(../fonts/pf.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Playfair Display SC';
+  font-family: 'Playfair Display SC','Nanum Gothic';
   font-style: normal;
   font-weight: 400;
   src: url(../fonts/pfsc.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Share Tech Mono';
+  font-family: 'Share Tech Mono','Nanum Gothic';
   font-style: normal;
   font-weight: 400;
   src: url(../fonts/st.ttf) format('truetype');
 }
 body{
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', 'Nanum Gothic',serif;
     font-size: 16.5px;
 }
 h1{ font-size: 42px; }
