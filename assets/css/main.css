@@ -1,20 +1,20 @@
 @font-face {
-  font-family: 'Playfair Display','Nanum Gothic';
+  font-family: 'Nanum Gothic';
   font-style: normal;
   font-weight: 400;
-  src: url(../fonts/pf.ttf) format('truetype');
+  src: url(../fonts/NanumGothicCoding.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Playfair Display SC','Nanum Gothic';
+  font-family: 'Nanum Gothic';
   font-style: normal;
   font-weight: 400;
-  src: url(../fonts/pfsc.ttf) format('truetype');
+  src: url(../fonts/NanumGothicCoding.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Share Tech Mono','Nanum Gothic';
+  font-family: 'Nanum Gothic';
   font-style: normal;
   font-weight: 400;
-  src: url(../fonts/st.ttf) format('truetype');
+  src: url(../fonts/NanumGothicCoding.ttf) format('truetype');
 }
 body{
     font-family: 'Playfair Display', 'Nanum Gothic',serif;
