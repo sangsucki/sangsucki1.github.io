@@ -6,17 +6,16 @@ highlighter: rouge
 lsi: false
 permalink: /:title
 
-title: "sangsucki"
+title: "Joseph Dreamer's project"
 description: "Network Funding"
 baseurl: ""
 url: "http://sangsucki.github.io" # replace by your site's url
 twitter_username: your-name
-github_username:  lukas-h # (your name)
+github_username: sangsucki # (your name)
 accent: "#f7f7e6" # accent color for blog column
 
-author: "Your Name"
-address: "Your Street, <br>Your City, Country"
-email: "your@email.com"
+author: "Joseph"
+email: "sangseok.lee@duke.edu"
 
 # google analytics tracking code, please change the value
 g_analytics: ""
